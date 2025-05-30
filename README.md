@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mcebisi
+ Hi, I’m Mcebisi
 
 I'm a applied mathematics & statistics student from South Africa 🇿🇦 with a strong passion for:
 - Algorithmic trading 📈
