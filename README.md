@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Zama
 
-<!--
-**montel-mcebisi/montel-mcebisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a applied mathematics & statistics student from South Africa 🇿🇦 with a strong passion for:
+- Algorithmic trading 📈
+- Data analysis & machine learning 🤖
+- Applied mathematics 🧠
 
-Here are some ideas to get you started:
+## 🔧 Projects I'm Working On
+- 📉 Momentum and RSI strategies (coming soon)
+- 🤝 Collaborating with others to build quant models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/montel-sibande-0aa1221b2)
+- ✉️ sibandemontel@gmail.com
+
+---
+
+_Always learning. Always building._
