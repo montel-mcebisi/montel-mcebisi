@@ -7,6 +7,7 @@ I'm a applied mathematics & statistics student from South Africa 🇿🇦 with a
 
 ## 🔧 Projects I'm Working On
 - 📉 Momentum and RSI strategies (coming soon)
+- 📉 Moving average strategy
 - 🤝 Collaborating with others to build quant models
 
 ## 🔗 Connect with Me
