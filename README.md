@@ -6,7 +6,7 @@ I'm a Data science student from South Africa 🇿🇦 with a strong passion for:
 - Applied mathematics 🧠
 
 ## 🔧 Projects I'm Working On
-- 📉 Momentum and RSI strategies (coming soon)
+- 📉 Timeseries and forecasting (coming soon)
 - 📉 Moving average strategy
 - 🤝 Collaborating with others to build quant models
 
