@@ -7,6 +7,8 @@ I'm a Data science student from South Africa 🇿🇦 with a strong passion for:
 
 ## 🔧 Projects I'm Working On
 - 📉 Timeseries and forecasting (coming soon)
+- 📉 Natural Gas Pricing Model
+- 📉 Natural Gas Predictor model to predict future price
 - 📉 Moving average strategy
 - 🤝 Collaborating with others to build quant models
 
