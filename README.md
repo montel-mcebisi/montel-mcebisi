@@ -1,6 +1,6 @@
  Hi, I’m Mcebisi
 
-I'm a Data science student from South Africa 🇿🇦 with a strong passion for:
+I'm a Data science student & Founder of Montel Capital from South Africa 🇿🇦 with a strong passion for:
 - Algorithmic trading 📈
 - Data analysis & machine learning 🤖
 - Applied mathematics 🧠
