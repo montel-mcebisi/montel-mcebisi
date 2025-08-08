@@ -1,7 +1,7 @@
  Hi, I’m Mcebisi
 
 I'm a Data science student from South Africa 🇿🇦 with a strong passion for:
-- Algorithmic trading 📈
+- Quantitative trading 📈
 - Data analysis & machine learning 🤖
 - Applied mathematics 🧠
 
